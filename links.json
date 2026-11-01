@@ -1,9 +1,9 @@
 {
   "windows": [
     {
-      "name": "Windows10_21H2_Build_v3 (Tiếng Anh) - 3",
+      "name": "Windows10_21H2_Build_v3",
       "size": "5.4 GB",
-      "note": "Bản gốc mode",
+      "note": "Bản mode",
       "file": "Windows10_21H2_Build_v3.iso",
       "sha256": "",
       "urls": [
@@ -12,7 +12,7 @@
       ]
     },
     {
-      "name": "Windows 10 22H2 x64 (Tiếng Anh) - DÁN TÊN THẬT",
+      "name": "Windows 10 22H2 x64",
       "size": "8 GB",
       "note": "Bản gốc Microsoft",
       "file": "Win10_22H2_English_x64.iso",
